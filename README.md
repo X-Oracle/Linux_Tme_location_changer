@@ -29,6 +29,6 @@ python3 <(curl -Ls https://raw.githubusercontent.com/X-Oracle/Linux_Tme_location
 2. Put it in a location you can remember like `/root/`
 3. Run bellow command :
 ```bash
-sudo python3 change_time_location_v2.py
+sudo python3 /root/timezone_changer.py
 ```
 4. follow script.
